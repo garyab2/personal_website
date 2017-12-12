@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Gary Braznichenko
+site_author: Gary Braznichenko
+repo_url: https://github.com/garyab2/personal_website
+edit_uri: blob/master/docs/
+pages:
+  - Home: index.md
+  - About: about.md
+  - Contact Info: contactinfo.md
+theme: mkdocs
+extra_css: [extra.css]
