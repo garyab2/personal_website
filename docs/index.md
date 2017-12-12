@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Bio: Computer Science student at the University of Illinois at Urbana-Champaign,
+ College of Engineering. Currently seeking a summer internship.
 
-## Commands
+ ![profile picture](img/profilepic.jpg)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
+    mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        about.md     # Other markdown pages, images and other files.
+        contactinfo.md
+        extra.css
+        extra.js
+        img/
+            profilepic.jpg
+            Resume.doc

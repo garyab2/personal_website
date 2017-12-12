@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Home\n\n\nBio: Computer Science student at the University of Illinois at Urbana-Champaign,\n College of Engineering. Currently seeking a summer internship.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    about.md     # Other markdown pages, images and other files.\n    contactinfo.md\n    extra.css\n    extra.js\n    img/\n        profilepic.jpg\n        Resume.doc",
+            "title": "Home"
+        },
+        {
+            "location": "/#home",
+            "text": "Bio: Computer Science student at the University of Illinois at Urbana-Champaign,\n College of Engineering. Currently seeking a summer internship.",
+            "title": "Home"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    about.md     # Other markdown pages, images and other files.\n    contactinfo.md\n    extra.css\n    extra.js\n    img/\n        profilepic.jpg\n        Resume.doc",
+            "title": "Project layout"
+        },
+        {
+            "location": "/about/",
+            "text": "Purpose of this Website\n\n\n\n\nTo create a personal website for recruiters and others to learn about myself.\n\n\nTo learn and practice web frontend development.\n\n\nTo explore the capabilities of various static website options and html and CSS.",
+            "title": "About"
+        },
+        {
+            "location": "/about/#purpose-of-this-website",
+            "text": "To create a personal website for recruiters and others to learn about myself.  To learn and practice web frontend development.  To explore the capabilities of various static website options and html and CSS.",
+            "title": "Purpose of this Website"
+        },
+        {
+            "location": "/contactinfo/",
+            "text": "Contact Information:\n\n\nGary Braznichenko\nemail address: garyab2@illinois.edu\nextra_js: [extra.js]",
+            "title": "Contact Info"
+        },
+        {
+            "location": "/contactinfo/#contact-information",
+            "text": "Gary Braznichenko\nemail address: garyab2@illinois.edu\nextra_js: [extra.js]",
+            "title": "Contact Information:"
+        }
+    ]
+}
