@@ -2,4 +2,4 @@
 
     Gary Braznichenko
     email address: garyab2@illinois.edu
-    LinkedIn: www.linkedin.com/in/gary-b-17231b122
+    LinkedIn: [Gary Braznichenko](www.linkedin.com/in/gary-b-17231b122)

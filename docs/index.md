@@ -6,6 +6,12 @@ Bio: Computer Science student at the University of Illinois at Urbana-Champaign,
  ![profile picture](img/profilepic.jpg)
 
 
+## Resume
+
+[Resume.pdf](img/Resume.pdf)
+
+[Resume.doc](img/Resume.doc)
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.
@@ -15,6 +21,8 @@ Bio: Computer Science student at the University of Illinois at Urbana-Champaign,
         contactinfo.md
         extra.css
         extra.js
+        favicon.ico
         img/
             profilepic.jpg
             Resume.doc
+            Resume.pdf

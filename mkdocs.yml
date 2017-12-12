@@ -2,6 +2,7 @@ site_name: Gary Braznichenko
 site_author: Gary Braznichenko
 repo_url: https://github.com/garyab2/personal_website
 edit_uri: blob/master/docs/
+#site_favicon: favicon.ico
 pages:
   - Home: index.md
   - About: about.md

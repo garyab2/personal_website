@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Home\n\n\nBio: Computer Science student at the University of Illinois at Urbana-Champaign,\n College of Engineering. Currently seeking a summer internship.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    about.md     # Other markdown pages, images and other files.\n    contactinfo.md\n    extra.css\n    extra.js\n    img/\n        profilepic.jpg\n        Resume.doc",
+            "text": "Home\n\n\nBio: Computer Science student at the University of Illinois at Urbana-Champaign,\n College of Engineering. Currently seeking a summer internship.\n\n\n\n\nResume\n\n\nResume.pdf\n\n\nResume.doc\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    about.md     # Other markdown pages, images and other files.\n    contactinfo.md\n    extra.css\n    extra.js\n    favicon.ico\n    img/\n        profilepic.jpg\n        Resume.doc\n        Resume.pdf",
             "title": "Home"
         },
         {
@@ -11,8 +11,13 @@
             "title": "Home"
         },
         {
+            "location": "/#resume",
+            "text": "Resume.pdf  Resume.doc",
+            "title": "Resume"
+        },
+        {
             "location": "/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    about.md     # Other markdown pages, images and other files.\n    contactinfo.md\n    extra.css\n    extra.js\n    img/\n        profilepic.jpg\n        Resume.doc",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    about.md     # Other markdown pages, images and other files.\n    contactinfo.md\n    extra.css\n    extra.js\n    favicon.ico\n    img/\n        profilepic.jpg\n        Resume.doc\n        Resume.pdf",
             "title": "Project layout"
         },
         {
@@ -27,12 +32,12 @@
         },
         {
             "location": "/contactinfo/",
-            "text": "Contact Information:\n\n\nGary Braznichenko\nemail address: garyab2@illinois.edu\nLinkedIn: www.linkedin.com/in/gary-b-17231b122",
+            "text": "Contact Information:\n\n\nGary Braznichenko\nemail address: garyab2@illinois.edu\nLinkedIn: [Gary Braznichenko](www.linkedin.com/in/gary-b-17231b122)",
             "title": "Contact Info"
         },
         {
             "location": "/contactinfo/#contact-information",
-            "text": "Gary Braznichenko\nemail address: garyab2@illinois.edu\nLinkedIn: www.linkedin.com/in/gary-b-17231b122",
+            "text": "Gary Braznichenko\nemail address: garyab2@illinois.edu\nLinkedIn: [Gary Braznichenko](www.linkedin.com/in/gary-b-17231b122)",
             "title": "Contact Information:"
         }
     ]
