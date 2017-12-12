@@ -27,12 +27,12 @@
         },
         {
             "location": "/contactinfo/",
-            "text": "Contact Information:\n\n\nGary Braznichenko\nemail address: garyab2@illinois.edu\nextra_js: [extra.js]",
+            "text": "Contact Information:\n\n\nGary Braznichenko\nemail address: garyab2@illinois.edu\nLinkedIn: www.linkedin.com/in/gary-b-17231b122",
             "title": "Contact Info"
         },
         {
             "location": "/contactinfo/#contact-information",
-            "text": "Gary Braznichenko\nemail address: garyab2@illinois.edu\nextra_js: [extra.js]",
+            "text": "Gary Braznichenko\nemail address: garyab2@illinois.edu\nLinkedIn: www.linkedin.com/in/gary-b-17231b122",
             "title": "Contact Information:"
         }
     ]
